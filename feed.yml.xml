@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2025-04-11T13:56">
+  <shop>
+    <categories>
+      <category id="1">Аксессуары</category>
+      <category id="2">Автозапчасти</category>
+      <category id="3">Инструменты</category>
+    </categories>
+    <company>Автопитер</company>
+    <currencies>
+      <currency id="RUB" rate="1.000000" />
+    </currencies>
+    <name>Автопитер</name>
+    <url>https://autopiter.ru/</url>
+    <offers>
+      <offer id="103535303" available="true">
+        <categoryId>2</categoryId>
+        <currencyId>RUB</currencyId>
+        <delivery>true</delivery>
+        <description>Погружные центробежные электрические насосы для перекачки дизельного топлива предназначены для работы внутри емкостей ниже уровня перекачиваемых жидкостей. Такие насосы подходят для перекачивания дизельного топлива, керосина. ВАЖНО! Перекачивать бензин устройствами данного типа запрещено</description>
+        <name>НПТ погружной 12V d38  БелАК</name>
+        <pickup>true</pickup>
+        <picture>https://autopiter.ru/static2/detailphoto/w2000/P5437/bak17538-2.jpg</picture>
+        <price>759</price>
+        <sales_notes>Наличные / Картой</sales_notes>
+        <store>true</store>
+        <url>https://autopiter.ru/goods/bak17538/belak/id114186385?orderRef=15</url>
+        <vendor>БелАК</vendor>
+        <vendorCode>БАК.17538</vendorCode>
+      <typePrefix>НПТ</typePrefix><model>НПТ погружной 12V d38</model></offer>
+      <offer id="179893013" available="true">
+        <categoryId>2</categoryId>
+        <currencyId>RUB</currencyId>
+        <delivery>true</delivery>
+        <description>Фильтры «БелАК» изготавливаются из качественных фильтрующих элементов, защищающих систему впрыска двигателя</description>
+        <name>Фильтр сменный(фильтроэлемент) ФГОТ (Евро 2)  PL 270</name>
+        <pickup>true</pickup>
+        <price>499</price>
+        <sales_notes>Наличные / Картой</sales_notes>
+        <store>true</store>
+        <url>https://autopiter.ru/goods/bak10314/belak/id179893013?orderRef=15</url>
+        <vendor>БелАК</vendor>
+        <vendorCode>БАК.10314</vendorCode>
+      <typePrefix>Фильтр</typePrefix><model>Фильтр сменный(фильтроэлемент) ФГОТ (Евро 2)  PL 270</model></offer>
+      <offer id="124844007" available="true">
+        <categoryId>1</categoryId>
+        <currencyId>RUB</currencyId>
+        <delivery>true</delivery>
+        <description>Тормозные камеры с энергоаккумулятором приводят в действие механизмы на колесах мостов автомобиля во время включения рабочей, стояночной и запасной тормозной системы. У подобных устройств происходит накопление механической энергии в упругом элементе, как правило, представляющем собой витую пружину</description>
+        <name>Энергоаккумулятор тип 24/24</name>
+        <pickup>true</pickup>
+        <picture>https://autopiter.ru/static2/detailphoto/w2000/P5437/bak03072-1.jpg</picture>
+        <price>4210</price>
+        <sales_notes>Наличные / Картой</sales_notes>
+        <store>true</store>
+        <url>https://autopiter.ru/goods/bak03072/belak/id124844007?orderRef=15</url>
+        <vendor>БелАК</vendor>
+        <vendorCode>БАК.03072</vendorCode>
+      <typePrefix>Энергоаккумулятор</typePrefix><model>Энергоаккумулятор тип 24/24</model></offer>
+      <offer id="114186276" available="true">
+        <categoryId>3</categoryId>
+        <currencyId>RUB</currencyId>
+        <delivery>true</delivery>
+        <description>Механические гайковёрты – это незаменимые инструменты для водителей большегрузных автомобилей. Помогают откручивать и закручивать гайки и болты, которые крепят тяжело нагруженные соединения. Они особенно полезны, когда нужно быстро заменить колесо из-за прокола или более серьёзной поломки.</description>
+        <name>Гайковерт механический удлиненный 32х33</name>
+        <pickup>true</pickup>
+        <picture>https://autopiter.ru/static2/detailphoto/w2000/P5437/BAK00018.JPG</picture>
+        <price>3408</price>
+        <sales_notes>Наличные / Картой</sales_notes>
+        <store>true</store>
+        <url>https://autopiter.ru/goods/bak00018/belak/id114186276?orderRef=15</url>
+        <vendor>БелАК</vendor>
+        <vendorCode>БАК.00018</vendorCode>
+      <typePrefix>Гайковерт</typePrefix><model>Гайковерт механический удлиненный 32х33</model></offer>
+      <offer id="167678399" available="true">
+        <categoryId>3</categoryId>
+        <currencyId>RUB</currencyId>
+        <delivery>true</delivery>
+        <description>Наборы «Профи» и «Мастер» изготовлены из легированной стали с повышенным содержанием углерода. Благодаря высококачественному металлу, универсальной комплектации и прочному, морозостойкому и ударопрочному кейсу, эти наборы являются универсальными и эффективными инструментами для ремонтных работ</description>
+        <name>Набор инструментов ПРОФИ, 82 предм."БелАК"</name>
+        <pickup>true</pickup>
+        <picture>https://autopiter.ru/static2/detailphoto/w2000/P5437/bak07003-1.jpg</picture>
+        <price>4087</price>
+        <sales_notes>Наличные / Картой</sales_notes>
+        <store>true</store>
+        <url>https://autopiter.ru/goods/bak07003/belak/id167678399?orderRef=15</url>
+        <vendor>БелАК</vendor>
+        <vendorCode>БАК.07003</vendorCode>
+      <typePrefix>Набор</typePrefix><model>Набор инструментов ПРОФИ, 82 предм.""</model></offer>
+      <offer id="114186307" available="true">
+        <categoryId>3</categoryId>
+        <currencyId>RUB</currencyId>
+        <delivery>true</delivery>
+        <description>Гидравлические бутылочные домкраты серии «Стандарт» изготавливаются из высокопрочных марок стали и уникальных резинотехнических изделий. Применение современных материалов и инновационных технологий производства делает наши домкраты одними из лучших на рынке РФ по показателям надежности и срока службы.</description>
+        <name>Домкрат гидравлический 50 т. БелАК</name>
+        <pickup>true</pickup>
+        <picture>https://autopiter.ru/static2/detailphoto/w2000/P5437/BAK00051.JPG</picture>
+        <price>6856</price>
+        <sales_notes>Наличные / Картой</sales_notes>
+        <store>true</store>
+        <url>https://autopiter.ru/goods/bak00051/belak/id114186307?orderRef=15</url>
+        <vendor>БелАК</vendor>
+        <vendorCode>БАК.00051</vendorCode>
+      <typePrefix>Домкрат</typePrefix><model>Домкрат гидравлический 50 т.</model></offer>
+    </offers>
+  </shop>
+</yml_catalog>
